@@ -129,7 +129,33 @@ To change the breakpoints:
 ---
 
 ## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests with enhancements or bug fixes.
+
+Contributions are welcome! If you’d like to contribute, please follow these steps:
+
+1. **Fork the Repository**: 
+   - Click the "Fork" button on the top right to create a copy of this repository in your own GitHub account.
+   
+2. **Create a New Branch**: 
+   - From your forked repository, create a new branch for your changes. We recommend using a descriptive name for your branch, such as `feature/your-feature-name` or `bugfix/issue-name`.
+
+3. **Make Changes**: 
+   - Implement your changes, bug fixes, or enhancements in your branch.
+
+4. **Commit Your Changes**: 
+   - After you’ve made your changes, commit them with a meaningful message describing what you’ve done.
+
+5. **Create a Pull Request**:
+   - Open a pull request (PR) from your branch to the **Contributions** branch of this repository. 
+   - **Please note:** Pull requests to the `master` branch are not allowed. All changes should be submitted to the **Contributions** branch for review.
+
+6. **Review Process**:
+   - All pull requests to the **Contributions** branch will be reviewed before merging. I will evaluate your changes, provide feedback if necessary, and approve the pull request once everything looks good.
+   - Please be patient while your PR is under review.
+
+7. **No Direct Pushes**:
+   - Direct pushes to the `master` or `Contributions` branches are **not allowed**. Changes must go through the pull request and review process.
+
+We appreciate your contributions and look forward to collaborating with you!
 
 ---
 
